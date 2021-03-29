@@ -1,4 +1,4 @@
-# iAware
+# Description
 *Provides daily health related updates to raise  awareness in the community about the importance of good health, healthy lifestyles, as well as peoples’ rights to quality health care services -especially for the most vulnerable, such as women and children.*
 
 # API
