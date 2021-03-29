@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background-color:#fae596;
+    border: 10px solid ;
+}
+header{
+    border: 2px solid white;
+    background-color: #3fb0ac;
+}
+footer{
+    border: 2px solid white;
+    background-color: #173e43;
+    color: white;
+    height: 100px;  
+
+}
+nav{
+    color:black;
+    font-weight: 600;
+    border: 2ppx solid #173e43;
+}
+
+.badge{
+    background-color: #173e43;
+}
