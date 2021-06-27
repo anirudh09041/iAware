@@ -6,9 +6,6 @@ fetch('https://gnews.io/api/v4/search?q=health&lang=en&token=09f9da2dd17c9a57e04
         return response.json();
     })
     .then(function (data) {
-
-
-
         let newsHtml = "";
 
         for (i = 0; i <= 9; i++) {
@@ -29,8 +26,6 @@ fetch('https://gnews.io/api/v4/search?q=health&lang=en&token=09f9da2dd17c9a57e04
             newsHtml += news;
         }
         newsAccordion.innerHTML = newsHtml;
-
-
     });
 
 
