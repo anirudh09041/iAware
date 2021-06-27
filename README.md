@@ -7,6 +7,6 @@
 # TO VIEW
 **access the link: [iAware](https://anirudh09041.github.io/iAware/index.html)**
 ## OR
-**Download the zip file and run index.html in your browser.**
+**Clone and run index.html in your browser.**
 
 
