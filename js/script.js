@@ -1,6 +1,6 @@
 let newsAccordion = document.getElementById('newsAccordion');   //news container
 
-fetch('https://gnews.io/api/v4/search?q=health&lang=en&token=09f9da2dd17c9a57e04160587fc5b4ca')
+fetch('https://gnews.io/api/v4/search?q=health&lang=en&token=945ac9987a09cd8cf1181cd9eebc8f5a')
     
     .then(function (response) {
         return response.json();
