@@ -8,7 +8,7 @@ fetch('https://gnews.io/api/v4/search?q=health&lang=en&token=945ac9987a09cd8cf11
     .then(function (data) {
         let newsHtml = "";
 
-        for (i = 0; i <= 9; i++) {
+        for (i = 1; i <= 10; i++) {
             // document.write(data.articles[i].description);                       
             let news = `<div class="accordion-item">
             <h2 class="accordion-header" id="heading${i + 1}">
